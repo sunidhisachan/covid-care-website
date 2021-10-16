@@ -20,7 +20,7 @@ A site which provides information regarding the availability of beds & medicines
 •	Hospital & medical – User can search for hospitals & medicals <br>
 •	Covid Stats: User can check daily stats related to Covid cases <br>
 •	Contact: User can contact for any issue/query/suggestion <br> <br>
-## Software Requirement (anyone)<br>
+## Software Requirement (Any one)<br>
 •	WAMP <br>
 •	XAMPP <br>
 •	MAMP <br>
@@ -35,7 +35,7 @@ LAMP: https://www.youtube.com/watch?v=zWTRNXmtVYM <br>
 •	Open PHPMyAdmin <br>
 •	Create a Database “admin_panel” <br>
 •	Import database “admin_panel.sql” <br>
-•	Open Your browser put inside browser “http://localhost/covid-care-website/admin_panel/login.php” <br>
+•	Open “http://localhost/covid-care-website/admin_panel/login.php” using any browser<br>
 •	Login Details <br>
 •	Login Details for admin :  
 1)	Username: admin@covidcare.com <br>
