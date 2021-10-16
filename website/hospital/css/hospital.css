@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    text-transform: capitalize;
+    transition: all .3s cubic-bezier(.38,1.15,.7,1.12);
+    -webkit-transition: all .3s cubic-bezier(.38,1.15,.7,1.12);
+    -moz-transition: all .3s cubic-bezier(.38,1.15,.7,1.12);
+    -ms-transition: all .3s cubic-bezier(.38,1.15,.7,1.12);
+    -o-transition: all .3s cubic-bezier(.38,1.15,.7,1.12);
+}
+
+.head{
+    background: rgb(245, 3, 3);
+}
+
+.heading{
+    text-align: center;
+    background: #fff;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    font-size: 2rem;
+    text-transform: uppercase;
+    padding: 1rem;
+}
+
+
+.output .container-fluid .row .filter{
+    padding-left: 10px;
+}
+
+.output .container-fluid .row .filter h6{
+    color: blueviolet;
+}
+
+.output .container-fluid .row .result .head{
+    align-items: center;
+} 

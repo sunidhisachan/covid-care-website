@@ -1,0 +1,18 @@
+.notice {
+    margin: 0px 10px 0px 10px;
+    padding: 5px 20px 5px 1px;
+    min-height: 40px;
+    max-height: 65px;
+    min-width: 600px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    align-items:center;
+    background-color: #f4f4f4;
+}
+    .notice p {
+    margin: 0px 0px 0px 10px;
+    padding: 0px 12px 0px 0px;
+    font-size: 14px;
+    color: red;
+    text-align: center;
+}

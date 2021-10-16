@@ -1,0 +1,33 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background: #F5F5DC;
+}
+
+.content {
+    background-color: antiquewhite;
+    max-width: 400px;
+    min-height: 500px;
+    border: 15px solid sandybrown;
+    padding: 50px;
+    margin: 0 auto;
+    margin-top: 40px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.blog {
+    padding-top: 100px;
+}
+
+h4 {
+    font-size: 22px;
+    background-color: antiquewhite;
+}
+
+small, u {
+    font-size: 18px;
+    background-color: antiquewhite;
+}
