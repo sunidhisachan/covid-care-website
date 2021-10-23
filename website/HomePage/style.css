@@ -354,7 +354,7 @@ body{
     height: 40rem;
 }
 .card:hover{
-    border: 2px solid var(--blue)!important;
+    border: 1px solid var(--blue)!important;
     background-color: lightgreen !important;
 
 }
@@ -370,7 +370,7 @@ body{
 }
 
 .prevent .box-container .box p{
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     color:#666;
     padding: 1rem 0;
 }
