@@ -335,7 +335,7 @@ body{
 .prevent .box-container .box{
     flex:1 1 30rem;
     width: 30rem;
-    background: #fff;
+    background:#fff;
     border-radius: 0.5rem;
     -webkit-border-radius: 0.5rem;
     -moz-border-radius: 0.5rem;
@@ -351,6 +351,12 @@ body{
     -moz-transition: .2s linear;
     -ms-transition: .2s linear;
     -o-transition: .2s linear;
+    height: 40rem;
+}
+.card:hover{
+    border: 2px solid var(--blue)!important;
+    background-color: lightgreen !important;
+
 }
 
 .prevent .box-container .box img{
